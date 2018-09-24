@@ -4,3 +4,6 @@
 using namespace boost::asio;
 
 int main()
+{
+    return 0;
+}
